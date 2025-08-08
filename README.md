@@ -6,3 +6,4 @@
 <img width="915" height="454" alt="facture" src="https://github.com/user-attachments/assets/cfeac6dc-9eb9-4ede-bc22-c824c3fd02f8" />
 <img width="1283" height="631" alt="inscription" src="https://github.com/user-attachments/assets/b19a1fd4-d144-49ef-ad01-fc52f31d0006" />
 
+<img width="309" height="580" alt="payer" src="https://github.com/user-attachments/assets/6c061c4e-2d8d-425a-86b3-382438ed35e7" />
